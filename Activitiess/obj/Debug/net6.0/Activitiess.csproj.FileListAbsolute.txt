@@ -1,0 +1,14 @@
+D:\techcareerdotnetbootcamp\Activities\Activitiess\bin\Debug\net6.0\Activitiess.deps.json
+D:\techcareerdotnetbootcamp\Activities\Activitiess\bin\Debug\net6.0\Activitiess.runtimeconfig.json
+D:\techcareerdotnetbootcamp\Activities\Activitiess\bin\Debug\net6.0\Activitiess.dll
+D:\techcareerdotnetbootcamp\Activities\Activitiess\bin\Debug\net6.0\Activitiess.pdb
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.csproj.AssemblyReference.cache
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.GeneratedMSBuildEditorConfig.editorconfig
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.AssemblyInfoInputs.cache
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.AssemblyInfo.cs
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.csproj.CoreCompileInputs.cache
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.dll
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\refint\Activitiess.dll
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.pdb
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\Activitiess.genruntimeconfig.cache
+D:\techcareerdotnetbootcamp\Activities\Activitiess\obj\Debug\net6.0\ref\Activitiess.dll
